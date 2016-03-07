@@ -1,0 +1,140 @@
+
+Level 1
+
+Geezard 		1 4 1 5
+Funguar 		5 1 1 3
+Bite-Bug		1 3 3 5
+Red-Bat			6 1 1 2
+Blobra			2 3 1 5
+Gayla			2 1 4 4
+Gesper			1 5 4 1
+Fastitocalon-F	3 5 2 1
+Blood-Soul 		2 1 6 1
+Caterchipillar 	4 2 4 3
+Cockatrice		2 1 2 6
+
+Level 2
+
+Grat	 		7 1 3 1
+Buel	 		6 2 2 3
+Mesmerize 		5 3 3 4
+Glacial-Eye 	6 1 4 3
+Belhelmel 		3 4 5 3
+Thrustaevis 	5 3 2 5
+Anacondaur 		5 1 3 5
+Creeps 			5 2 5 2
+Grendal 		4 4 5 2
+Jelleye 		3 2 1 7
+Grand-Mantis 	5 2 5 3
+
+Level 3
+
+Forbidden 		6 6 3 2
+Armadodo 		6 3 1 6
+Tri-Face 		3 5 5 5 
+Fastitocalon 	7 5 1 3
+Snow-Lion 		7 1 5 3
+Ochu 			5 6 3 3
+SAM08G 			5 6 2 4
+Death-Claw 		4 4 7 2
+Cactuar 		6 2 3 6
+Tonberry 		3 6 4 4
+Abyss-Worm 		7 2 3 5
+
+Level 4
+
+Turtapod 		2 6 3 7
+Vysage 			6 5 4 5
+T-Rexaur 		4 6 2 7
+Bomb 			2 7 6 3
+Blitz 			1 6 4 7
+Wendigo 		7 3 1 6
+Torama 			7 4 4 4 
+Imp 			3 7 3 6
+Blue-Dragon 	6 2 7 3
+Adamantoise 	4 5 5 6
+HexDragon 		7 5 4 3
+
+Level 5
+
+Iron-Giant 		6 5 5 6
+Behemoth 		3 6 5 7
+Chimera 		7 6 5 3
+Pupu 			3 10 2 1
+Elastoid 		6 2 6 7
+GIM47N 			5 5 7 4
+Malboro 		7 7 4 2
+Ruby-Dragon 	7 2 7 4 
+Elnoyle 		5 3 7 6
+Tonberry-King 	4 7 6 4
+Wedge-Biggs 	6 6 2 7
+
+Level 6
+
+Fujin-Rajin 	2 8 8 4
+Elvoret 		7 8 3 4
+X-ATM092 		4 8 7 3 
+Granaldo 		7 2 8 5
+Gerogero 		1 8 8 3
+Iguion 			8 2 2 8
+Abadon 			6 8 4 5
+Trauma 			4 8 5 6
+Oilboyle 		1 8 4 8
+Shumi-Tribe 	6 5 8 4
+Krysta 			7 5 8 1
+
+Level 7
+
+Propagator 		8 4 4 8
+Jumbo-Cactuar 	8 8 4 4 
+Tri-Point 		8 6 6 8
+Gargantua 		5 6 6 8
+Moblie-Type-B 	8 6 7 3
+Sphinxara 		8 3 5 8
+Tiamat 			8 8 5 4
+BGH251F2 		5 7 8 5
+Red-Giant 		6 8 4 7
+Catoblepas 		1 8 7 7 
+Ultima-Weapon 	7 7 1 8
+
+Level 8
+
+Chubby-Chocobo 	4 4 8 9
+Angelo 			9 6 7 3
+Gilgamesh 		3 7 9 6
+Mini-Mog 		9 3 9 2
+Chicobo 		9 4 8 4
+Quezacoyl 		2 9 9 4
+Shiva 			6 7 4 9
+Ifrit 			9 6 2 8
+Siren 			8 9 6 2
+Sacred 			5 1 9 9 
+Minotaur 		9 5 2 9
+
+Level 9
+
+Carbuncle 		8 4 8 4
+Diablos 		5 8 8 3
+Leviathan 		7 10 1 7
+Odin 			8 10 3 5
+Pandemona 		8 1 7 7
+Cerberus 		7 4 6 10 
+Alexander 		9 10 4 2
+Phoenix 		7 2 7 10 
+Bahamut 		8 8 2 6
+Doomtrain 		3 1 10 10
+Eden 			4 4 9 10 
+
+Level 10
+
+Ward 			10 7 2 8
+Kiros 			6 7 6 10
+Laguana 		5 10 3 9
+Selphie 		10 8 6 4
+Quistis			9 6 10 2
+Irvine			2 6 9 10
+Zell 			8 5 10 6
+Rinoa 			4 10 2 10 
+Edea 			10 10 3 3
+Seifer 			6 9 10 4
+Squall 			10 4 6 9
